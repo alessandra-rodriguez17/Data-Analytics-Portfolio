@@ -20,7 +20,8 @@ Resume: [pdf](https://github.com/alessandra-rodriguez17/Data-Analytics-Portfolio
     - [Grocery Sales Insights](https://github.com/alessandra-rodriguez17/Grocery-sales-Analysis/blob/main/grocery_sales.sql)
     - [Factors of Student Performance](https://github.com/alessandra-rodriguez17/SQLStudentAnalysis/blob/main/StudentPerformance.sql)
   - Excel
-  - Tableau
+    - [Gamezone Orders Data Cleaning](https://github.com/alessandra-rodriguez17/Gamezone-Orders-Data-Cleaning/blob/main/gamezone-orders-data.xlsx)
+  - Tableau (to be added)
 
 ## Education
 East Texas A&M University 2021-2025
