@@ -10,7 +10,17 @@ Mathematical Statistics with R and AI Data Science & Machine Learning. These cla
 Resume: [pdf](https://github.com/alessandra-rodriguez17/Data-Analytics-Portfolio/blob/main/AlessandraRodriguezResume.pdf).
 
 ## Table of Contents
-
+- [About](https://github.com/alessandra-rodriguez17/Data-Analytics-Portfolio/blob/main/README.md#about)
+- Portfolio Projects:
+  - Python
+    - [Associations Between Characteristics and Depression](https://github.com/alessandra-rodriguez17/AssociationsBetweenCharacteristicsAndDepression/blob/main/FinishedFinalProject_Group15.ipynb)
+    - [Veteran Employment Analysis](https://github.com/alessandra-rodriguez17/Veteran-Employment-Analysis/blob/main/VeteranEmploymentAnalysis.ipynb)
+    - [Veteran Employment KNN Machine Learning](https://github.com/alessandra-rodriguez17/Veteran-Employment-Analysis/blob/main/VeteranEmploymentKNN.ipynb)
+  - SQL
+    - [Grocery Sales Insights](https://github.com/alessandra-rodriguez17/Grocery-sales-Analysis/blob/main/grocery_sales.sql)
+    - [Factors of Student Performance](https://github.com/alessandra-rodriguez17/SQLStudentAnalysis/blob/main/StudentPerformance.sql)
+  - Excel
+  - Tableau
 
 ## Education
 East Texas A&M University 2021-2025
@@ -18,5 +28,5 @@ Bachelors of Science in Computer Science
 GPA: 3.94/4.00 - Summa Cum Laude
 
 ## Contacts
-[LinkedIn]https://www.linkedin.com/in/alessandra-rodriguez-7ab74b266/
-Email: alessandra.rodriguez172@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/alessandra-rodriguez-7ab74b266/)
+- Email: alessandra.rodriguez172@gmail.com
