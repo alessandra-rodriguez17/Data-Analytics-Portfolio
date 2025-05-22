@@ -16,3 +16,7 @@ Resume: [pdf](https://github.com/alessandra-rodriguez17/Data-Analytics-Portfolio
 East Texas A&M University 2021-2025
 Bachelors of Science in Computer Science
 GPA: 3.94/4.00 - Summa Cum Laude
+
+## Contacts
+[LinkedIn]https://www.linkedin.com/in/alessandra-rodriguez-7ab74b266/
+Email: alessandra.rodriguez172@gmail.com
