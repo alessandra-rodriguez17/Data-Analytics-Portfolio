@@ -7,7 +7,7 @@ from constant practice, and I utilize them daily to discover and visualize meani
 Throughout my time as East Texas A&M University, I excelled in courses related to Databases, Applied Data Analytics with Python,
 Mathematical Statistics with R and AI Data Science & Machine Learning. These classes allowed me to discover my passion in this field.
 
-Resume: [pdf](https://github.com/alessandra-rodriguez17/Data-Analytics-Portfolio/blob/main/AlessandraRodriguezResume.docx).
+Resume: [pdf]((https://github.com/alessandra-rodriguez17/Data-Analytics-Portfolio/blob/main/AlessandraRodriguezResume.pdf).
 
 ## Table of Contents
 
