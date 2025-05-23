@@ -22,6 +22,7 @@ Resume: [pdf](https://github.com/alessandra-rodriguez17/Data-Analytics-Portfolio
   - Excel
     - [Gamezone Orders Data Cleaning](https://github.com/alessandra-rodriguez17/Gamezone-Orders-Data-Cleaning/blob/main/gamezone-orders-data.xlsx)
   - Tableau (to be added)
+    - Business Perspective: Best Locations to Host AirBNBs in Boston
 
 ## Education
 East Texas A&M University 2021-2025
