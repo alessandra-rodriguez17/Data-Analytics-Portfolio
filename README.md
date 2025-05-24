@@ -21,8 +21,8 @@ Resume: [pdf](https://github.com/alessandra-rodriguez17/Data-Analytics-Portfolio
     - [Factors of Student Performance](https://github.com/alessandra-rodriguez17/SQLStudentAnalysis/blob/main/StudentPerformance.sql)
   - Excel
     - [Gamezone Orders Data Cleaning](https://github.com/alessandra-rodriguez17/Gamezone-Orders-Data-Cleaning/blob/main/gamezone-orders-data.xlsx)
-  - Tableau (to be added)
-    - Business Perspective: Best Locations to Host AirBNBs in Boston
+  - Tableau
+    - [Business Perspective: Insights for Hosting AirBNBs in Boston](https://public.tableau.com/app/profile/alessandra.rodriguez3206/viz/AirBNB_Boston_Profit/Dashboard1)
 
 ## Education
 East Texas A&M University 2021-2025
